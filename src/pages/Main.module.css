@@ -1,0 +1,29 @@
+.Mainpagediv{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: #242424;
+}
+.mainpagediv2{
+    border:solid 3px #1a1a1a;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+}
+.mainpagedivbu{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mainpagedivbu a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+}
