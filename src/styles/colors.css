@@ -1,0 +1,24 @@
+/* Background and text */
+body {
+  background-color: #000000; /* Black background */
+  color: #f2f2f2;           /* Light text for contrast */
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Custom button style */
+.btn-skyred {
+  background-color: #ff4d4d; /* Sky red */
+  color: #fff;
+  border: none;
+  transition: background 0.3s ease;
+}
+
+.btn-skyred:hover {
+  background-color: #cc0000; /* Darker red on hover */
+}
+
+/* Page heading */
+h2 {
+  font-weight: bold;
+  color: #ff4d4d;
+}
